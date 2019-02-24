@@ -1,0 +1,4 @@
+YCSB Client 0.1
+Command line: -threads 10 -P config/workloads/workloada -p measurementtype=timeseries -p timeseries.granularity=1000 -db bftsmart.demo.ycsb.YCSBClient -s
+[OVERALL], RunTime(ms), 86.0
+[OVERALL], Throughput(ops/sec), 0.0
